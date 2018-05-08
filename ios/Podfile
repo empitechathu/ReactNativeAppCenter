@@ -6,7 +6,11 @@ target 'ReactNativeAppCenter' do
   # use_frameworks!
 
   # Pods for ReactNativeAppCenter
+  pod 'AppCenter/Crashes', '~> 1.6.0'
+  pod 'AppCenter/Analytics', '~> 1.6.0'
+  pod 'AppCenterReactNativeShared', '~> 1.5.0'
 
+  platform :ios, '9.0'
   target 'ReactNativeAppCenterTests' do
     inherit! :search_paths
     # Pods for testing
