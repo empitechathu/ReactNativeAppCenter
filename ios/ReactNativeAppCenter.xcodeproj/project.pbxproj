@@ -1319,10 +1319,10 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.empite.rotyo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.empite.appcenter;
 				PRODUCT_NAME = ReactNativeAppCenter;
-				PROVISIONING_PROFILE = "abf572f0-85e9-404c-9236-0ffa145f9b46";
-				PROVISIONING_PROFILE_SPECIFIER = Rotyo_test;
+				PROVISIONING_PROFILE = "a6af4151-cf62-4556-b5b5-b1041c58e7e8";
+				PROVISIONING_PROFILE_SPECIFIER = appcenterdev;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
@@ -1348,10 +1348,10 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.empite.rotyo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.empite.appcenter;
 				PRODUCT_NAME = ReactNativeAppCenter;
-				PROVISIONING_PROFILE = "abf572f0-85e9-404c-9236-0ffa145f9b46";
-				PROVISIONING_PROFILE_SPECIFIER = Rotyo_test;
+				PROVISIONING_PROFILE = "a6af4151-cf62-4556-b5b5-b1041c58e7e8";
+				PROVISIONING_PROFILE_SPECIFIER = appcenterdev;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
